@@ -1,7 +1,6 @@
 {
   "name": "webpack_exercicios",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --progress --colors --inline --hot"
@@ -18,8 +17,19 @@
     "css-loader": "^0.26.1",
     "extract-text-webpack-plugin": "^1.0.1",
     "react": "^15.4.2",
+    "react-dom": "^15.4.2",
     "style-loader": "^0.13.1",
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvingsl/webpack_exercises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/irvingsl/webpack_exercises/issues"
+  },
+  "homepage": "https://github.com/irvingsl/webpack_exercises#readme",
+  "description": ""
 }
